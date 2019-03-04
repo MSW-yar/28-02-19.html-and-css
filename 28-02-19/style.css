@@ -1,0 +1,30 @@
+h1 {
+  font-size: 50px;
+  font-style: oblique;
+  font-stretch: extra-expanded;
+  border-color: red;
+  border-width: thick;
+  border-style: groove;
+  font-color: blue;
+  text-align: center;
+  margin: 100px;
+}
+
+h2 {
+  font-size: 35px;
+  font-style: italic;
+  font-color: yellow;
+  text-align: left;
+  margin-left: 100px;
+  display: inline;
+}
+
+h3 {
+  font-size: 35px;
+  margin-left: 600px;
+  display: inline;
+}
+
+div {
+  margin-left: 100px;
+}
